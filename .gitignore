@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+Lib/
+bin/
+Scripts/
+Include/
+*.egg-info/
+*.egg
+
+# VS Code settings
+.vscode/
+.gihub/
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test and coverage reports
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.pyc
+
+# MyPy
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# LangChain/LLM cache
